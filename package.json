@@ -6,7 +6,7 @@
   "author": "Ayumi Yu <ayumi@brave.com>",
   "license": "MPL-2.0",
   "dependencies": {
-    "aws-sdk": "^2.126.0",
+    "aws-sdk": "^2.814.0",
     "config": "^1.26.2",
     "express": "^4.14.0",
     "hoek": "^4.2.1",
