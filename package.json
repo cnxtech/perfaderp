@@ -11,7 +11,7 @@
     "express": "^4.14.0",
     "hoek": "^4.2.1",
     "influx": "^5.0.7",
-    "moment": "^2.19.3",
+    "moment": "^2.29.2",
     "node-schedule": "^1.2.5",
     "request": "^2.83.0",
     "webkit-cpu-profiler-tools": "git+https://git@github.com/brave/webkit-cpu-profiler-tools.git",
